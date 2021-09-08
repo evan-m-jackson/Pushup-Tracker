@@ -1,8 +1,8 @@
 import requests
 from datetime import datetime
 
-USERNAME = "ejackson93"
-TOKEN = "effafhfakfjaffha"
+USERNAME = "ejackson93" #Insert unique username (This is mine.)
+TOKEN = "effafhfakfjaffha" #Insert your own token.
 
 pixela_endpoint = "https://pixe.la/v1/users"
 
